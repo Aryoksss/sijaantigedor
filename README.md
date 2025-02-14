@@ -28,6 +28,15 @@
       <sub>Project Lead</sub>
     </td>
     <!-- Tambahkan kontributor lain di sini -->
+        <td align="center">
+      <a href="https://github.com/aryoksss">
+        <img src="https://github.com/aryoksss.png" width="100px;" alt="Daniil"/>
+        <br />
+        <sub><b>Charon IX</b></sub>
+      </a>
+      <br />
+      <sub>Project Mem</sub>
+    </td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
