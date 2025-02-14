@@ -32,7 +32,7 @@
       <a href="https://github.com/aryoksss">
         <img src="https://github.com/aryoksss.png" width="100px;" alt="Aryoksss"/>
         <br />
-        <sub><b>Charon IX</b></sub>
+        <sub><b>Aryoksss</b></sub>
       </a>
       <br />
       <sub>Project Mem</sub>
