@@ -30,7 +30,7 @@
     <!-- Tambahkan kontributor lain di sini -->
         <td align="center">
       <a href="https://github.com/aryoksss">
-        <img src="https://github.com/aryoksss.png" width="100px;" alt="Daniil"/>
+        <img src="https://github.com/aryoksss.png" width="100px;" alt="Aryoksss"/>
         <br />
         <sub><b>Charon IX</b></sub>
       </a>
